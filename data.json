@@ -1,0 +1,20 @@
+{
+  "carrerobjective":{"info":"To pursue a challenging job and to learn more skills"
+  },
+"education":[
+  {
+    "degree":"SSC",
+    "school":"ratnam",
+    "data":["2011","92%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"narayana",
+    "data":["2013","97"]
+  },
+  {
+    "degree":"GRADUATION",
+    "school":"svec",
+    "data":["2015","80"]
+  }
+]}
