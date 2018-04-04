@@ -1,20 +1,41 @@
 {
-  "carrerobjective":{"info":"To pursue a challenging job and to learn more skills"
-  },
+"career":{
+"info":  "To pursue a challenging career."
+},
 "education":[
-  {
-    "degree":"SSC",
-    "school":"ratnam",
-    "data":["2011","92%"]
-  },
-  {
-    "degree":"INTERMEDIATE",
-    "school":"narayana",
-    "data":["2013","97"]
-  },
-  {
-    "degree":"GRADUATION",
-    "school":"svec",
-    "data":["2015","80"]
-  }
-]}
+ {
+   "degree":"ssc",
+   "school":"ratnam",
+   "data":["2013","90%"]
+ },{
+   "degree":"Intermediate",
+   "school":"Narayana junior college",
+   "data":["2015","96%"]
+ },{
+   "degree":"Graduation",
+   "school":"sree vidyanikethan",
+   "data":["2019","85%"]
+ }
+ ],
+ "skills":[
+{
+  "name":"operating sysytems",
+  "info":["windows","linux","Redhat","ubuntu"]
+},
+{
+  "name":"Lnaguages",
+  "info":["c","Datastructure","c++"]
+},
+{
+  "name":"Databases",
+  "info":["oracle","mysql"]
+},
+{
+  "name":"Web technologies",
+  "info":["HTML","javascript","css"]
+},
+{
+  "name":"frameworks",
+  "info":["Bootstrap",".net"]
+}
+ ]}

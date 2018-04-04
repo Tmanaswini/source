@@ -1,7 +1,7 @@
 
 body
 {
-  background-color: wheat;
+  background-color: black;
 }
 .flex-parent{
  background-color: #wheat;
@@ -40,6 +40,15 @@ h1,#roll{
 }
 a{
  text-decoration: none;
+}
+td{
+  padding:2%;
+}
+tr:nth-child(odd){
+  background-color:white;
+}
+tr:nth-child(even){
+  background-color:skyblue;
 }
 @media only screen and (min-width:320px) and (max-width:480px){
   .flex-parent{
